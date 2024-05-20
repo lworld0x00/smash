@@ -1,6 +1,3 @@
-[submodule "hulk"]
-	path = hulk
-	url = git@github.com:lworld0x00/hulk.git
 [submodule "pullme"]
 	path = pullme
 	url = git@github.com:lworld0x00/submod.git
